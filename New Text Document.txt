@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+
+<title>SCWB 110</title>
+<meta charset="utf-8">
+</head>
+
+
+
+
+
+<body>
+
+<h1> Derek Nielsen's Fishcreek Assignments </h1>
+
+
+<nav>
+
+  <a href="file:///C:\Users\cacti\OneDrive\Desktop\CSWB 110\fishCreek Ch 2\index.html"> <b> Chapter 2 </b> </a>
+  &nbsp;
+  <a href="file:///C:\Users\cacti\OneDrive\Desktop\CSWB 110\fishCreek Ch 3\index.html"> <b> Chapter 3 </b> </a>
+  &nbsp;
+  <a href="       "> <b> Chapter 4 </b> </a>
+  &nbsp;
+  <a href="       "> <b> Chapter 5 </b> </a>
+  
+
+
+
+
+
+
+
+
+</body>
+</html>
