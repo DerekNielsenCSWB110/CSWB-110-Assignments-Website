@@ -1,61 +1,102 @@
 body {
-    background-color: #FFFFFF;
+    background-color: #5280C5;
+    background-image: url("gradientblue.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #003366;
     font-family: Verdana, Arial, sans-serif;
     font-weight: bold;
+
 }
 
 
 header {
-    background-color: #003366;
+    background-color: #000066;
+    background-image: url("bigfish.gif");
     color: #F0F0F0;
     text-align: center;
-    font family: Times New Roman;
-    background-image: url("fishcreeklogo.png");
-    background-position: top;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: 500px 100px;
-
 
 }
 
 
 main {
-
     padding-left: 10px;
     padding-right: 10px;
-
+    margin-left: 180px;
+    padding-left: 2em;
+    padding-right: 2em;
+    background-color: white;
+    border: 1px solid #AEC3E3;
 
 }
-
 
 
 h1 {
     line-height: 250%;
     text indent: 1em;
     margin-bottom: 0;
+    font-size: 3em;
+    padding: 0.2em;
+    text-shadow: 1px 1px 2px #CCCCCC;
+
 }
 
 
 nav {
     text-align: center;
     font-weight: bold;
-    text-align: center;
-    background-color: #5280C5;
+    text-align: initial;
+    background-color: initial;
     padding: 5px;
-
+    float: left;
+    width:180px;
 
 }
 
 
-footer nav {
+nav ul {
     
-
-    background-color: #F0F0F0;
-
+    list-style-type: none;
 
 }
 
+
+nav a {
+    
+    text-decoration: none;
+
+}
+
+
+nav a:link {
+    
+    color: #000066;
+
+}
+
+
+nav a:visited {
+    
+    color: #5280C5;
+
+}
+
+
+nav a:hover {
+    
+    color: #3262A3;
+
+}
+
+
+header, nav, main, footer {
+    
+    display: block;
+
+}
 
 
 dt {
@@ -72,7 +113,8 @@ footer {
     font-style: italic;
     text-align: center;
     background-color: #AEC3E3;
-
+    padding: 1em;
+    margin-left: 180px;
 
 }
 
@@ -80,6 +122,13 @@ footer {
 img {
 
     border: none;
+
+}
+
+
+* {
+    
+    box-sizing: border-box;
 
 }
 
